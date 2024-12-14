@@ -43,4 +43,3 @@ Before running the application, make sure you have the following installed on yo
    ```bash
    git clone https://github.com/yourusername/paytm-clone.git
    cd paytm-clone
->>>>>>> d14bd1f0693057253ccb0c368914d1177e1d5ad5
