@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-## Build a basic version of PayTM
 =======
 # PayTM Clone Web Application
 
